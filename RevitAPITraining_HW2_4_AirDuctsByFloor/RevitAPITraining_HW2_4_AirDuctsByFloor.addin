@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\RevitAPITrainig\RevitAPITraining_HW2_4_AirDuctsByFloor.dll"</Assembly>
+		<AddInId>7D94F339-C829-40FC-B5E3-F04469D0A73C</AddInId>
+		<FullClassName>RevitAPITraining_HW2_4_AirDuctsByFloor.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Кол-во воздуховодов на 1м и 2м эт.</Text>
+	</AddIn>
+</RevitAddIns>

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitAPITraining_HW2_1_AirDuctsCount", "RevitAPITraining_HW2\RevitAPITraining_HW2_1_AirDuctsCount.csproj", "{E19FBE09-4A1B-4011-96A1-C291BD0ABD4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitAPITraining_HW2_2_PipesCountActiveView", "RevitAPITraining_HW2_2\RevitAPITraining_HW2_2_PipesCountActiveView.csproj", "{D2A55999-A244-4A00-8397-4EA8C0E29445}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitAPITraining_HW2_3_ColumnsCount", "RevitAPITraining_HW2_3_ColumnsCount\RevitAPITraining_HW2_3_ColumnsCount.csproj", "{B32CD950-31E5-44A1-BC72-107B6F7000B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitAPITraining_HW2_4_AirDuctsByFloor", "RevitAPITraining_HW2_4_AirDuctsByFloor\RevitAPITraining_HW2_4_AirDuctsByFloor.csproj", "{AF9B65F5-DF4E-4FD9-92F0-FCEDCA9AE70D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E19FBE09-4A1B-4011-96A1-C291BD0ABD4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E19FBE09-4A1B-4011-96A1-C291BD0ABD4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E19FBE09-4A1B-4011-96A1-C291BD0ABD4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E19FBE09-4A1B-4011-96A1-C291BD0ABD4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2A55999-A244-4A00-8397-4EA8C0E29445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A55999-A244-4A00-8397-4EA8C0E29445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A55999-A244-4A00-8397-4EA8C0E29445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A55999-A244-4A00-8397-4EA8C0E29445}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B32CD950-31E5-44A1-BC72-107B6F7000B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32CD950-31E5-44A1-BC72-107B6F7000B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B32CD950-31E5-44A1-BC72-107B6F7000B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B32CD950-31E5-44A1-BC72-107B6F7000B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF9B65F5-DF4E-4FD9-92F0-FCEDCA9AE70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF9B65F5-DF4E-4FD9-92F0-FCEDCA9AE70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF9B65F5-DF4E-4FD9-92F0-FCEDCA9AE70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF9B65F5-DF4E-4FD9-92F0-FCEDCA9AE70D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6B97641-5D97-4766-92DA-6DAAEF9798D8}
+	EndGlobalSection
+EndGlobal
